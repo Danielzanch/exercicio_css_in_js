@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import FormVagas from '../../components/FormVagas'
 
-import Vaga from '../../components/vaga'
+import Vaga from '../../components/Vaga'
 
 import { CardList } from './styles'
 

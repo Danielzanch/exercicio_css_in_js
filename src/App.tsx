@@ -1,6 +1,6 @@
 import { ThemeProvider } from 'styled-components'
 
-import Header from './components/cabecalho/index'
+import Header from './components/Cabecalho/index'
 import Hero from './components/Hero'
 import ListaVagas from './containers/ListaVagas'
 
